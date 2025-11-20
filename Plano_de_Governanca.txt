@@ -1,0 +1,1 @@
+"Este é um artefato de teste para validação de requisitos de Governança e ITIL. Versão 1.0"
